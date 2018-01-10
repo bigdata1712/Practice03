@@ -8,6 +8,8 @@ public class StringUtilApp {
         String resultStr = StringUtil.concatString(strArray);
         
         System.out.println("결과 문자열:" + resultStr);
+        
+        String str ="안녕하세요";
     }
 
 }
